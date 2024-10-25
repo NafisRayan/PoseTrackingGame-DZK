@@ -1,2 +1,3 @@
 /.venv
-/mobile_app
+/expo_frontend/node_modules
+/expo_frontend/.expo
