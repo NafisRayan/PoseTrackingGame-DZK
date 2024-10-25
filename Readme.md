@@ -11,8 +11,6 @@ This project implements a pose gesture-based game using Python backend and React
 5. [Gameplay](#gameplay)
 6. [Features](#features)
 7. [Requirements](#requirements)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Project Overview
 
